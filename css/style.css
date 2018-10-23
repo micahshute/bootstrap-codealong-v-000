@@ -38,7 +38,7 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
-
+/* for pull */
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
